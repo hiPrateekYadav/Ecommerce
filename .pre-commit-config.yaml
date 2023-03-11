@@ -32,6 +32,7 @@ repos:
   #   hooks:
   #     - id: isort
   #       args:
+  #         # - "--config-file=.isort.cfg"
   #         - "--profile=black"
   #         - "--multi-line=3"
   #         - "--line-length=88"
